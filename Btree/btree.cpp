@@ -1,7 +1,7 @@
 // 
 // btree.cpp
 //
-// Your Name: Robert Werthman
+// Your Name: 
 // 
 // Collaboration is not only encouraged, it is basically
 // demanded. Work together! Share code!
