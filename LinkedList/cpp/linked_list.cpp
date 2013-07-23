@@ -7,14 +7,14 @@
 
  */
 
-// AUTHOR: Robert Werthman
+// AUTHOR: 
           
 // WHAT: CSCI 2270 Assignment 1
 
 // COLLABORATORS: <List of EVERYBODY you worked with, including
 // instructors, TAs, and other students. Include people you helped.>
-// TA: Nathaniel Pohl
-// Other Students: Jane Lockshin, other people with names I don't remember
+// TA: 
+// Other Students:  other people with names I don't remember
 // <List of EVERY WEB SITE you consulted substantially> <Don't worry!
 // Collaboration is encouraged. This is not cheating.>
 /*
