@@ -5,7 +5,7 @@
   Please refer to sorting.h for documentation on each function.
 
   Your Name:
-  Your TA: Nathaniel Pohl
+  Your TA: 
   List O' Collaborators:
   * Jane, Ian, Steven, Internet (my very best friend)
   * http://mathbits.com/MathBits/CompSci/Arrays/Bubble.htm
