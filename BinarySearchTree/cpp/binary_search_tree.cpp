@@ -11,7 +11,7 @@
 //http://stackoverflow.com/questions/10369159/deleting-node-from-a-binary-search-tree
 //http://dev-faqs.blogspot.com/2012/03/remove-node-from-binary-search-tree.html
 //http://www.youtube.com/watch?v=fa4i8v7YoeM
-// Persons: Jane Lockshin
+// Persons: 
 #include <iostream>
 
 #include "binary_search_tree.h"
