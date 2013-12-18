@@ -1,0 +1,15 @@
+introspection.txt
+
+Initial Ideas:
+Ian had an idea to do a turn based fighting game.  It would involve user input and a random number generator.  If the user input was higher than the random number, the user would win and if it was lower than the random number the user would lose.    Five wins would win the game and five losses would lose the game.  We finally decided to go with a text adventure game because that is what everybody agreed on and it was really the only thing we could do in the time frame.  It was going to be some kind of mystery scenario and then Layne proposed an idea of an "active shooter training module" from the department of homeland security.  It then developed into a "shooter on campus" scenario for the CU police department.  It highlights the three possible decisions you would have in such a scenario: run, hide, or fight. 
+
+Pivots:
+Steven started to implement a mystery game and then Layne changed it to an "active shooter preparedness training module" adding a practical aspect to the game.  She then decided to talk to the CUPD to see what ideas they had to offer.  Coordinating with the CUPD was not easy because they were almost always busy (especially on 4/20).  Originally, there were not the three separate states of run, hide, or fight but this changed after Layne talked to the CUPD.  It was clear that adding the three states would be an easier way to write the game.  We originally were using pointers in the user struct but then decided to change the struct to a class, so we didn't need the pointers anymore.  Additionally, we were using pointers to take the user input and change the state of the game.  This turned out to be harder than just using regular loops so we got rid of them. 
+
+Data Structures:
+Classes: We came up with a human class, named "user", that has certain variables that were important to determining what options were available to the user. There are variables such as the number of lives saved by making the right decisions, a boolean varaible about the user hiding or not, and another bool variable that tells if the user is ran or not.  There are also other functions that change those variables.
+Recursion:  Steven used recursion by having part of a function call itself.
+
+Hardest Aspect:  There were several hard aspects of creating this game.  One of them was working with a group and formulating everyone's ideas into a general consensus.  Another one was sticking to CUPD's protocol on how to handle a shooter on campus.  This was difficult because we delegated the coding out to different people and it was tricky to make sure that everyone was following the original plan.  Lastly, taking time to talk to the CUPD was difficult because they were almost always busy with other problems around campus.
+
+
