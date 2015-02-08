@@ -4,13 +4,7 @@
 using namespace std;
 
 /*
- * Layne : Came up with the idea and wrote part of the story and the branches as well as hide mode and ending.
- * Jane : Wrote the part of the story and branches as well as law enforcement mode and ending
- * Steven : Coded run mode and put everything together	
- * Bob : Coded fight mode
- * Brook: Wrote and edited Introspection
- * Alix: Wrote Introspection and helped with law enforcement mode
- * Ian: Wrote and edited Introspection
+ * 
  * 
  * 
  */
